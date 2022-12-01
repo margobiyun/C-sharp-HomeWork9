@@ -1,0 +1,15 @@
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/bin/Debug/net6.0/Task66
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/bin/Debug/net6.0/Task66.deps.json
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/bin/Debug/net6.0/Task66.runtimeconfig.json
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/bin/Debug/net6.0/Task66.dll
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/bin/Debug/net6.0/Task66.pdb
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/Task66.csproj.AssemblyReference.cache
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/Task66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/Task66.AssemblyInfoInputs.cache
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/Task66.AssemblyInfo.cs
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/Task66.csproj.CoreCompileInputs.cache
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/Task66.dll
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/refint/Task66.dll
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/Task66.pdb
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/Task66.genruntimeconfig.cache
+/Users/margarita/Documents/GEEK BRAINS/Ist_quarter/C#HomeWork/HW9/Task66/obj/Debug/net6.0/ref/Task66.dll
